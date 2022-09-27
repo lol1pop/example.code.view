@@ -1,0 +1,324 @@
+{
+  "requestId": "0187fc0b-69c0-4805-9613-30235f3f96a7",
+  "statusCode": 200000,
+  "errorDetails": "",
+  "data": {
+    "marketItem": {
+      "allIds": {
+        "AID": [
+          "AIDYKDY62001"
+        ],
+        "EAN": [
+          "0887276410401"
+        ],
+        "UPC": [
+          "887276410401"
+        ],
+        "ASIN": [
+          "B086Z2XFYP"
+        ],
+        "IDENTIFIED_KEYWORDS": [
+          "Samsung Galaxy Tab S6 Lite"
+        ]
+      },
+      "market": "AMAZON_US",
+      "name": "Samsung Galaxy Tab S6 Lite 10.4\", 64GB WiFi Tablet Oxford Gray - SM-P610NZAAXAR - S Pen Included",
+      "description": "Samsung Galaxy Tab S6 Lite 10.4\", 64GB WiFi Tablet Oxford Gray - SM-P610NZAAXAR - S Pen Included",
+      "dimensions": {
+        "width": {
+          "value": 6.07,
+          "unit": "INCH"
+        },
+        "length": {
+          "value": 0.28,
+          "unit": "INCH"
+        },
+        "height": {
+          "value": 9.63,
+          "unit": "INCH"
+        }
+      },
+      "packageDimensions": {
+        "width": {
+          "value": 6.54,
+          "unit": "INCH"
+        },
+        "length": {
+          "value": 10.16,
+          "unit": "INCH"
+        },
+        "height": {
+          "value": 1.5,
+          "unit": "INCH"
+        },
+        "weight": {
+          "value": 24.8,
+          "unit": "OUNCE"
+        }
+      },
+      "model": "SM-P610NZAAXAR",
+      "brand": "Samsung Electronics",
+      "color": "Oxford Gray",
+      "size": "10.4",
+      "msrp": {
+        "currencyCode": "USD",
+        "amount": 349.99
+      },
+      "manufacturer": "Samsung",
+      "featureList": [],
+      "largeImageUrl": "https://m.media-amazon.com/images/I/418Ty89Cf3L.jpg",
+      "marketCategory": {
+        "name": "Ce",
+        "id": "ce_display_on_website"
+      },
+      "marketItemCategories": {
+        "AMAZON_US": [
+          {
+            "id": "ce_display_on_website",
+            "name": "Ce",
+            "ancestorsPathIds": [],
+            "ancestorsPathNames": [],
+            "isDisplayOnWebSite": true
+          },
+          {
+            "id": "1232597011",
+            "ancestorsPathIds": [],
+            "ancestorsPathNames": [],
+            "isDisplayOnWebSite": false
+          }
+        ]
+      },
+      "identifierIndication": "ID",
+      "algopixImagesSet": [
+        {
+          "imageType": "large",
+          "imageUrl": "https://m.media-amazon.com/images/I/418Ty89Cf3L.jpg",
+          "imageHeight": {
+            "value": 61.00,
+            "unit": "PIXELS"
+          },
+          "imageWidth": {
+            "value": 75.00,
+            "unit": "PIXELS"
+          }
+        }
+      ],
+      "algopixValidatedAttributes": {
+        "partNumber": "SM-P610NZAAXAR",
+        "releaseDate": "2020-05-29",
+        "cpuManufacturer": "Fujitsu",
+        "cpuSpeed": {
+          "value": 2.3,
+          "unitType": "GHz"
+        },
+        "displaySize": {
+          "value": 10.4,
+          "unitType": ""
+        },
+        "hardDiskSize": {
+          "value": 64.0,
+          "unitType": "GB"
+        },
+        "hardwarePlatform": "Android",
+        "label": "Samsung",
+        "numberOfItems": 1,
+        "operatingSystems": [
+          "Android"
+        ],
+        "publisher": "Samsung",
+        "studio": "Samsung",
+        "systemMemorySize": {
+          "value": 64.0,
+          "unitType": "GB"
+        },
+        "title": "Samsung Galaxy Tab S6 Lite 10.4\", 64GB WiFi Tablet Oxford Gray - SM-P610NZAAXAR - S Pen Included",
+        "warranty": "1 Year Manufacturer",
+        "lang": "en-US"
+      },
+      "langToTitles": {
+        "en": "Samsung Galaxy Tab S6 Lite 10.4\", 64GB WiFi Tablet Oxford Gray - SM-P610NZAAXAR - S Pen Included"
+      },
+      "ids": {
+        "AID": "AIDYKDY62001",
+        "EAN": "0887276410401",
+        "UPC": "887276410401",
+        "ASIN": "B086Z2XFYP",
+        "IDENTIFIED_KEYWORDS": "Samsung Galaxy Tab S6 Lite"
+      }
+    },
+    "listedMarketItem": {
+      "creationTime": "2020-11-05T05:39:35.852708Z",
+      "marketItem": {
+        "allIds": {
+          "AID": [
+            "AIDYKDY62001"
+          ],
+          "EAN": [
+            "0887276410401"
+          ],
+          "UPC": [
+            "887276410401"
+          ],
+          "ASIN": [
+            "B086Z2XFYP"
+          ],
+          "IDENTIFIED_KEYWORDS": [
+            "Samsung Galaxy Tab S6 Lite"
+          ]
+        },
+        "market": "AMAZON_US",
+        "name": "Samsung Galaxy Tab S6 Lite 10.4\", 64GB WiFi Tablet Oxford Gray - SM-P610NZAAXAR - S Pen Included",
+        "description": "Samsung Galaxy Tab S6 Lite 10.4\", 64GB WiFi Tablet Oxford Gray - SM-P610NZAAXAR - S Pen Included",
+        "dimensions": {
+          "width": {
+            "value": 6.07,
+            "unit": "INCH"
+          },
+          "length": {
+            "value": 0.28,
+            "unit": "INCH"
+          },
+          "height": {
+            "value": 9.63,
+            "unit": "INCH"
+          }
+        },
+        "packageDimensions": {
+          "width": {
+            "value": 6.54,
+            "unit": "INCH"
+          },
+          "length": {
+            "value": 10.16,
+            "unit": "INCH"
+          },
+          "height": {
+            "value": 1.5,
+            "unit": "INCH"
+          },
+          "weight": {
+            "value": 24.8,
+            "unit": "OUNCE"
+          }
+        },
+        "model": "SM-P610NZAAXAR",
+        "brand": "Samsung Electronics",
+        "color": "Oxford Gray",
+        "size": "10.4",
+        "msrp": {
+          "currencyCode": "USD",
+          "amount": 349.99
+        },
+        "manufacturer": "Samsung",
+        "featureList": [],
+        "largeImageUrl": "https://m.media-amazon.com/images/I/418Ty89Cf3L.jpg",
+        "marketCategory": {
+          "name": "Ce",
+          "id": "ce_display_on_website"
+        },
+        "marketItemCategories": {
+          "AMAZON_US": [
+            {
+              "id": "ce_display_on_website",
+              "name": "Ce",
+              "ancestorsPathIds": [],
+              "ancestorsPathNames": [],
+              "isDisplayOnWebSite": true
+            },
+            {
+              "id": "1232597011",
+              "ancestorsPathIds": [],
+              "ancestorsPathNames": [],
+              "isDisplayOnWebSite": false
+            }
+          ]
+        },
+        "identifierIndication": "ID",
+        "algopixImagesSet": [
+          {
+            "imageType": "large",
+            "imageUrl": "https://m.media-amazon.com/images/I/418Ty89Cf3L.jpg",
+            "imageHeight": {
+              "value": 61.00,
+              "unit": "PIXELS"
+            },
+            "imageWidth": {
+              "value": 75.00,
+              "unit": "PIXELS"
+            }
+          }
+        ],
+        "algopixValidatedAttributes": {
+          "partNumber": "SM-P610NZAAXAR",
+          "releaseDate": "2020-05-29",
+          "cpuManufacturer": "Fujitsu",
+          "cpuSpeed": {
+            "value": 2.3,
+            "unitType": "GHz"
+          },
+          "displaySize": {
+            "value": 10.4,
+            "unitType": ""
+          },
+          "hardDiskSize": {
+            "value": 64.0,
+            "unitType": "GB"
+          },
+          "hardwarePlatform": "Android",
+          "label": "Samsung",
+          "numberOfItems": 1,
+          "operatingSystems": [
+            "Android"
+          ],
+          "publisher": "Samsung",
+          "studio": "Samsung",
+          "systemMemorySize": {
+            "value": 64.0,
+            "unitType": "GB"
+          },
+          "title": "Samsung Galaxy Tab S6 Lite 10.4\", 64GB WiFi Tablet Oxford Gray - SM-P610NZAAXAR - S Pen Included",
+          "warranty": "1 Year Manufacturer",
+          "lang": "en-US"
+        },
+        "langToTitles": {
+          "en": "Samsung Galaxy Tab S6 Lite 10.4\", 64GB WiFi Tablet Oxford Gray - SM-P610NZAAXAR - S Pen Included"
+        },
+        "ids": {
+          "AID": "AIDYKDY62001",
+          "EAN": "0887276410401",
+          "UPC": "887276410401",
+          "ASIN": "B086Z2XFYP",
+          "IDENTIFIED_KEYWORDS": "Samsung Galaxy Tab S6 Lite"
+        }
+      },
+      "closestMatches": [],
+      "competitionAnalysisMap": {},
+      "warningIndications": [],
+      "promotions": {},
+      "allPrices": {
+        "REFURBISHED": {
+          "currencyCode": "USD",
+          "amount": 202.99
+        },
+        "USED": {
+          "currencyCode": "USD",
+          "amount": 173.99
+        },
+        "NEW": {
+          "currencyCode": "USD",
+          "amount": 289.99
+        }
+      }
+    },
+    "originalQuery": "887276410401",
+    "relatedMarketItems": {
+      "relatedItemIdType": "AID",
+      "relatedItemIds": [
+        "AIDTZ2FU2001"
+      ],
+      "updateItems": [],
+      "newItems": [],
+      "empty": false
+    }
+  }
+}

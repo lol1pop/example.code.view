@@ -1,0 +1,28 @@
+server:
+  port: 8080
+spring:
+  data:
+    elasticsearch:
+      client:
+        reactive:
+          endpoints: localhost:9200
+      repositories:
+        enabled: true
+    mongodb:
+      auto-index-creation: true
+      uri: mongodb://localhost:27017/db
+
+app:
+  genius:
+    productToken: <productToken>
+    reviewToken: <reviewToken>
+    reviewScheduledLimit: 5000
+    repository:
+      host: localhost
+      database: genius
+      collection: review
+  algopix:
+    xapikey: "<xapikey>"
+    xappid: "<xappid>"
+    webkey: <webkey>
+    useragent: Paw/3.2 (Macintosh; OS X/10.16.0) GCDHTTPRequest

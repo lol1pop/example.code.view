@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "status": 200,
+  "title": "Details about Sony Playstation 5 - Disc Edition",
+  "sku": "",
+  "brand": "Ubisoft",
+  "reviews": [
+    {
+      "review_author": "rhko-26",
+      "rating": 4.2,
+      "link": "https://www.ebay.com/itm/PS5-PlayStation-5-Console-Disc-Edition-PREORDER/193669096461?hash=item2d1793e40d:g:B5kAAOSwFQhfYsrj",
+      "review_title": "$1k too less for this. Awesome Product",
+      "review_description": "Die hard fan of PS5. Even $1k is less for this.",
+      "review_publish_date": "2020-09-17"
+    }
+  ]
+}
